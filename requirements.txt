@@ -21,3 +21,6 @@ shap==0.45.0
 statsmodels==0.14.1
 xgboost==2.0.3
 ipykernel
+mlflow
+ipywidgets
+duecredit
