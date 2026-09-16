@@ -75,6 +75,7 @@
 
 ```text
 mle-project-sprint-5-v001/
+├── .gitignore
 ├── final_uplift_project.ipynb
 ├── uplift_fp_data.csv
 ├── utils.py
@@ -83,6 +84,7 @@ mle-project-sprint-5-v001/
 └── README.md
 ```
 
+- `.gitignore` - список файлов и директорий, которые не должны добавляться в Git;
 - `final_uplift_project.ipynb` - основной Jupyter Notebook с анализом данных, обучением моделей, подбором гиперпараметров, визуализациями, MLflow и inference;
 - `uplift_fp_data.csv` - исходный датасет;
 - `utils.py` - вспомогательные функции;
